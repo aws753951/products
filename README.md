@@ -1,1 +1,2 @@
-"# products for name and price" 
+練習用
+了解如何讀取/寫入檔案，以及重構整體程式碼的學習
